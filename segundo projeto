@@ -1,0 +1,49 @@
+# Organizador de Imposto de Renda no Excel
+
+Este projeto tem como objetivo desenvolver uma ferramenta em Excel que ajude o usuário a organizar e reunir todas as informações essenciais para a declaração anual do Imposto de Renda. A proposta é criar um agregador de dados eficiente, validado e de fácil navegação, que simplifique o preenchimento da declaração com segurança e praticidade.
+
+## 🧾 Sobre o Projeto
+
+O "Organizador de IR" é uma solução completa criada no **Microsoft Excel**, voltada para pessoas físicas que precisam manter seus dados fiscais bem estruturados ao longo do ano. A ferramenta permite controlar e registrar entradas de renda, investimentos, bens, deduções, despesas médicas, entre outros campos importantes exigidos pela Receita Federal.
+
+A planilha conta com: 
+
+- **Menus de navegação intuitivos**
+- **Validações automáticas de dados**
+- **Funcionalidades extras**, como links rápidos e filtros por categoria
+- **Layout amigável**, projetado para facilitar o uso até por quem não tem familiaridade com Excel avançado
+
+## ✅ Funcionalidades
+
+- 📥 Registro de entradas
+- 💹 Controle bancário
+- 🧮 Cálculos automáticos de totais e subtotais por categoria
+- 🔗 Links rápidos para documentos ou sites úteis
+- ✅ Validação automática de campos obrigatórios
+
+## 🔧 Tecnologias utilizadas
+
+- **Microsoft Excel**
+  - Fórmulas e funções avançadas
+  - Validação de dados
+  - Tabelas dinâmicas
+  - Macros (opcional)
+  - Hyperlinks e botões de navegação
+
+## 🚀 Como usar
+
+1. Baixe o arquivo `.xlsx` disponibilizado neste repositório.
+2. Abra no **Microsoft Excel** (recomendada a versão 2016 ou superior).
+3. Navegue pelos menus para inserir suas informações fiscais.
+4. Use os campos indicados para cada categoria (rendimentos, deduções, bens, etc.).
+5. Revise e salve periodicamente seus dados — assim, ao chegar o momento da declaração, tudo estará pronto.
+
+> 💡 Dica: Mantenha o uso mensal para evitar acúmulo e erros no fechamento do ano.
+
+## 🎯 Objetivo
+
+Ajudar o contribuinte a manter um controle organizado e validado das suas informações fiscais, reduzindo o risco de erros e agilizando a preparação da declaração de IR.
+
+## ✍️ Autor
+
+- **Vih** – [@vih2206]
