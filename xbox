@@ -1,0 +1,49 @@
+# 📊 XBOX Game Pass – Painel de Assinaturas
+
+Este projeto foi desenvolvido com o objetivo de organizar, calcular e visualizar informações relacionadas às assinaturas do serviço XBOX Game Pass, utilizando o Microsoft Excel como principal ferramenta.
+
+## 🗂️ Estrutura do Projeto
+
+O arquivo Excel contém as seguintes abas:
+
+- Assets: Contém elementos visuais como a paleta de cores e rótulos utilizados no Dashboard.
+- Bases: Base de dados principal com informações dos assinantes, tipos de plano, valores pagos, benefícios adicionais (como EA Play, Minecraft Pass), e cupons aplicados.
+- Cálculos: Área reservada para cálculos intermediários e análises como faturamento total, impacto de cupons e planos mais populares.
+- Dashboard: Painel visual e interativo criado com base nos dados e análises para facilitar a interpretação e tomada de decisões.
+
+## 📌 Dados Utilizados
+
+A base de dados contém colunas como:
+
+- `Subscriber ID`: Identificador único do assinante.
+- `Name`: Nome do assinante.
+- `Plan`, `Start Date`, `Auto Renewal`: Informações sobre o plano contratado.
+- `Subscription Price`, `Subscription Type`: Valores e periodicidade.
+- `EA Play`, `Minecraft Season Pass`, `Coupon Value`: Serviços adicionais e descontos.
+- `Total Value`: Valor consolidado da assinatura com adicionais e cupons.
+
+## ⚙️ Como Reproduzir
+
+Para utilizar ou adaptar este projeto, siga os passos:
+
+1. Abra o arquivo Excel (recomendado: Excel 2016 ou superior).
+2. Navegue pelas abas na seguinte ordem:
+   - `B̳ases`: insira ou atualize os dados de assinantes.
+   - `C̳álculos`: revise ou adapte as fórmulas para suas necessidades.
+   - `D̳ashboard`: atualize visualizações automaticamente ao alterar os dados.
+3. Personalize o visual através da aba `A̳ssets` caso deseje modificar cores ou legendas.
+4. Adicione novos usuários ou serviços extras conforme necessário, mantendo a estrutura de colunas.
+
+## 🎯 Objetivo
+
+Criar um painel interativo para:
+
+- Avaliar o faturamento total e por tipo de plano.
+- Medir o impacto de cupons e passes adicionais.
+- Entender o comportamento dos assinantes (renovação automática, tipo de plano preferido).
+- Auxiliar na tomada de decisões estratégicas com base em dados reais ou simulados.
+
+## ✅ Requisitos
+
+- Microsoft Excel com suporte a gráficos e formatações condicionais.
+- Conhecimentos básicos de fórmulas e filtros no Excel (para personalizações).
